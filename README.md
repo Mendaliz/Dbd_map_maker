@@ -1,2 +1,2 @@
 # Dbd_map_maker
-rafic creator for "Dead by dylight" maps.
+Grafic creator for "Dead by dylight" maps.
